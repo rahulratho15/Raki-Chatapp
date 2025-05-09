@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "674721503958",
+    "project_id": "my-application-a0a6a",
+    "storage_bucket": "my-application-a0a6a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674721503958:android:87bf3dbbdbae19c902c777",
+        "android_client_info": {
+          "package_name": "com.example.RaKi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVmmR8zODbXFKWXVDR6WzSWeymMv5fpoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
